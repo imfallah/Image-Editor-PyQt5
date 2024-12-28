@@ -1,9 +1,9 @@
-# Image Editor with PyQt5
+# Image Editor with PyQt5 📸🐍
 
-## Overview
+## Overview🔗
 This project is a feature-rich **Image Editor** built with PyQt5. It provides an intuitive graphical user interface (GUI) for editing images with various filters, adjustments, and tools. Whether you're a developer or a casual user, this application is designed to make image editing simple and enjoyable.
 
-## Features
+## Features❣⚡
 
 ### 1. Splash Screen
 - Displays a visually appealing splash screen with a progress bar while the application loads.
@@ -27,7 +27,7 @@ This project is a feature-rich **Image Editor** built with PyQt5. It provides an
 - **Adjustment Frame**: Dedicated UI for fine-tuning image properties.
 - **Reusable Components**: Each feature is encapsulated for easy modification and extension.
 
-## Requirements
+## Requirements🥇
 
 - Python 3.8 or later
 - PyQt5
@@ -53,7 +53,7 @@ pip install PyQt5 opencv-python qimage2ndarray
    python main.py
    ```
 
-## File Structure
+## File Structure🌳
 ```
 pyqt5-image-editor/
 ├── main.py             # Entry point of the application
@@ -66,7 +66,7 @@ pyqt5-image-editor/
 └── README.md         # Project documentation
 ```
 
-## Usage
+## Usage🔗👀
 
 1. Launch the application using `python main.py`.
 2. Use the splash screen to track the loading process.
@@ -76,15 +76,15 @@ pyqt5-image-editor/
    - Adjust brightness, contrast, and more using the adjustment frame.
 5. Save your work in the desired format.
 
-## Future Enhancements
+## Future Enhancements🏆
 - Add more filters and adjustment options.
 - Improve the zoom and pan experience.
 - Introduce undo/redo functionality.
 - Support for batch processing of images.
 
-## Contributing
+## Contributing🙌🏽
 Contributions are welcome! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request.
 
-##ScreenShot
+##ScreenShot📸
 ![Main Interface👨🏽‍💻](https://github.com/imfallah/Image-Editor-PyQt5/blob/main/public/imag-editor(1).png)
 
