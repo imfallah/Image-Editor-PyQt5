@@ -85,6 +85,6 @@ pyqt5-image-editor/
 ## Contributing🙌🏽
 Contributions are welcome! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request.
 
-##ScreenShot📸
-![Main Interface👨🏽‍💻](https://github.com/imfallah/Image-Editor-PyQt5/blob/main/public/imag-editor(1).png)
+## ScreenShot📸
 
+<img src="https://github.com/imfallah/Image-Editor-PyQt5/blob/main/public/main_screen.png" width="500" height="500"><br><br>
