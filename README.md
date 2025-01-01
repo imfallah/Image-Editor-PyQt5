@@ -1,5 +1,8 @@
 # Image Editor with PyQt5 📸🐍
 
+<picture> <img align="left" src="https://github.com/imfallah/Image-Editor-PyQt5/blob/main/public/img-edi.png" width=500></picture>
+
+
 ## Overview🔗
 This project is a feature-rich **Image Editor** built with PyQt5. It provides an intuitive graphical user interface (GUI) for editing images with various filters, adjustments, and tools. Whether you're a developer or a casual user, this application is designed to make image editing simple and enjoyable.
 
